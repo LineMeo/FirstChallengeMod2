@@ -16,7 +16,7 @@
 // Exiba no console o tipo de dado da váriavel quartaFeira;
 
 
-Console.log('Desafio Mod 2(VnW) - 01 - Estrutura de Dados')
+console.log('Desafio Mod 2(VnW) - 01 - Estrutura de Dados')
 let name = 'Aline MEO'
 console.log(name)
 let number = 10
