@@ -19,9 +19,10 @@
 console.log('Desafio Mod 2(VnW) - 01 - Estrutura de Dados')
 let name = 'Aline MEO'
 console.log(name)
-let number = 10
+let number = 15
 let year = 2022 - number
-console.log(number + year)
+console.log(year)
+console.log(year + number)
 console.log("Estou mexendo no console.log")
 let quartaFeira = true
 console.log(quartaFeira)
